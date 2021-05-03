@@ -1,0 +1,49 @@
+.card-header{
+	background-color: orange;
+	font-size: 170%;
+	font-family: Roboto Slab;
+	color: white;
+	
+} /* merubah warna background, ukuran font, jenis font */
+.row {
+	margin-left: 40px;
+} /* merubah margin row */
+.col-md-10 {
+	margin-left: 88px;
+} /* merubah margin col-md-10 */
+.header2{
+	color: white;
+	font-family: roboto Slab;
+	background-color: blue;
+	position: left;
+	padding: 10px;
+
+}/* merubah warna background, ukuran font, jenis font, posisi dan padding */
+.jkel{
+	margin-left: 54px;
+	position: center;
+} /* merubah margin adan posisi jkel */
+.laki {
+	margin-left: 70px;
+} /* merubah margin laki */
+.perempuan {
+	margin-left: 40px;
+} /* merubah margin perempuan */
+.kwn {
+	margin-left: 54px;
+} /* merubah margin kwn */
+.in {
+	margin-left: 40px;
+} /* merubah margin in */
+.as {
+	margin-left: 40px;
+} /* merubah margin as */
+.pnn{
+	margin-left: 54px;
+} /* merubah margin pnn */
+.yy{
+	margin-left: 25px;
+} /* merubah margin yy */
+.tt{
+	margin-left: 40px;
+} /* merubah margin tt */
